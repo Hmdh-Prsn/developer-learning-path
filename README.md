@@ -17,3 +17,6 @@ This section was added on the feature branch.
 
 ## Master Update
 This section was added on master.
+
+## Version 2
+The project has been updated to version 2.
