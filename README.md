@@ -35,3 +35,5 @@ The project has been updated to version 3.
 ## My Feature3
 This is my new feature3.
 
+## GitHub Practice
+This section is for practicing remote repositories.
