@@ -31,3 +31,7 @@ This is my new feature.
 
 ## Version 3
 The project has been updated to version 3.
+
+## My Feature3
+This is my new feature3.
+
