@@ -1,4 +1,4 @@
-Developer Learning Path
+Developer Learning Path:
 
 Week 1: Git and GNU Make
 
