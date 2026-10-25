@@ -37,3 +37,6 @@ This is my new feature3.
 
 ## GitHub Practice
 This section is for practicing remote repositories.
+
+## Remote Practice
+This change was made directly on GitHub.
