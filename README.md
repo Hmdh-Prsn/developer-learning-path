@@ -14,3 +14,6 @@ Week 1: Git and GNU Make
 
 ## Feature Branch
 This section was added on the feature branch.
+
+## Master Update
+This section was added on master.
