@@ -28,3 +28,6 @@ This section is for practicing Git rebase.
 
 ## My Feature
 This is my new feature.
+
+## Version 3
+The project has been updated to version 3.
