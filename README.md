@@ -25,4 +25,9 @@ The project has been updated to version 2.
 ## Rebase Practice
 This section is for practicing Git rebase.
 
+<<<<<<< HEAD
+=======
+## My Feature
+This is my new feature.
+>>>>>>> 3d3420f (Add my new feature)
 
