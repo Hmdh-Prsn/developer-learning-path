@@ -40,3 +40,6 @@ This section is for practicing remote repositories.
 
 ## Remote Practice
 This change was made directly on GitHub.
+
+## Local Change
+This change was made on my computer.
